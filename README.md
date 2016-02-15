@@ -4,7 +4,8 @@ This is a sample application that uses webpack to bundle react components togeth
 ## Dependencies
 
 * [nodejs](https://nodejs.org/en/)
-* webpack-dev-server (`$ npm install webpack-dev-server`)
+* webpack (`$ npm install -g webpack`)
+* webpack-dev-server (`$ npm install -g webpack-dev-server`)
 
 ## Installation
 ``` 
