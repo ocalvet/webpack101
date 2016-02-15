@@ -1,1 +1,13 @@
 # Webpack with React 101
+This is a sample application that uses webpack to bundle react components together
+
+## Dependencies
+
+* [nodejs](https://nodejs.org/en/)
+* webpack-dev-server (`$ npm install webpack-dev-server`)
+
+## Installation
+``` 
+$ npm install
+$ webpack-dev-server --progress --color
+```
