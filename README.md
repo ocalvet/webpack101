@@ -1,1 +1,1 @@
-# webpack101
+# Webpack with React 101
